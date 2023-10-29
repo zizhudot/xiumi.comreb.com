@@ -102,7 +102,7 @@ cover:
 
 ```sh
 # 克隆仓库
-$ git clone https://github.com/zizhuspot/xiumi.comreb.com.git
+$ git clone https://github.com/zizhudot/xiumi.comreb.com.git
 # 安装依赖
 $ yarn install
 # 运行
